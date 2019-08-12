@@ -1,0 +1,7 @@
+D:\PrjPokemonPDM_33558_33534\PrjPokemonPDM_33558_33534\bin\Debug\PrjPokemonPDM_33558_33534.exe
+D:\PrjPokemonPDM_33558_33534\PrjPokemonPDM_33558_33534\bin\Debug\PrjPokemonPDM_33558_33534.pdb
+D:\PrjPokemonPDM_33558_33534\PrjPokemonPDM_33558_33534\obj\x86\Debug\PrjPokemonPDM_33558_33534.FrmPokemonPDM.resources
+D:\PrjPokemonPDM_33558_33534\PrjPokemonPDM_33558_33534\obj\x86\Debug\PrjPokemonPDM_33558_33534.Properties.Resources.resources
+D:\PrjPokemonPDM_33558_33534\PrjPokemonPDM_33558_33534\obj\x86\Debug\PrjPokemonPDM_33558_33534.csproj.GenerateResource.Cache
+D:\PrjPokemonPDM_33558_33534\PrjPokemonPDM_33558_33534\obj\x86\Debug\PrjPokemonPDM_33558_33534.exe
+D:\PrjPokemonPDM_33558_33534\PrjPokemonPDM_33558_33534\obj\x86\Debug\PrjPokemonPDM_33558_33534.pdb
